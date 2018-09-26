@@ -1,1 +1,2 @@
 ZJU https://mirrors.zju.edu.cn/julia
+GORO file:///home/arch/tmp/julia
